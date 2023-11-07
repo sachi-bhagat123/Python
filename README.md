@@ -1,3 +1,2 @@
 ## Python
-# I have performed
-## Python practicles here
+# I have performed Python practicles here
